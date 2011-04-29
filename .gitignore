@@ -1,0 +1,14 @@
+PluginManager.download/
+activity.log
+history
+jars-cache/
+killring.xml
+mirrorList.xml
+nosplash
+perspective.xml
+pluginMgr-Cached.xml.gz
+plugins/
+recent.xml
+schemes/
+server
+settings-backup/
