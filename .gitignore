@@ -1,3 +1,5 @@
+.DS_Store
+DockableWindowManager/
 PluginManager.download/
 activity.log
 history
